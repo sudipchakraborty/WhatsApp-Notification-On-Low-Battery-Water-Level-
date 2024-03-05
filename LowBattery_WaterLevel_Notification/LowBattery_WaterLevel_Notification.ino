@@ -20,11 +20,13 @@ const char* password = "abcd@9876543210";
 // +international_country_code + phone number
 // Portugal +351, example: +351912345678
 String phoneNumber = "+917003034313";
-String apiKey = "mDnEtehKtP7H";
+String apiKey = "jXYcsR1XTdW2";
 
 void sendMessage(String message){
 
   // Data to send with HTTP POST http://api.callmebot.com/whatsapp.php?phone=
+//"http://api.textmebot.com/send.php?phone=+917003034313&apikey=jXYcsR1XTdW2&text=Test Message_05.03.2024" + phoneNumber + "&apikey=" + apiKey + "&text=" + urlEncode(message);
+
   String url = "http://api.textmebot.com/send.php?phone=" + phoneNumber + "&apikey=" + apiKey + "&text=" + urlEncode(message);
   WiFiClient client;    
   HTTPClient http;
