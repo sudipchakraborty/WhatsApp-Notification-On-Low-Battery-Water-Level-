@@ -8,3 +8,13 @@ C:\Users\sudip\OneDrive\Desktop\Battery Water Level\C#\TextMeBot\TextMeBot\obj\D
 C:\Users\sudip\OneDrive\Desktop\Battery Water Level\C#\TextMeBot\TextMeBot\obj\Debug\TextMeBot.csproj.CoreCompileInputs.cache
 C:\Users\sudip\OneDrive\Desktop\Battery Water Level\C#\TextMeBot\TextMeBot\obj\Debug\TextMeBot.exe
 C:\Users\sudip\OneDrive\Desktop\Battery Water Level\C#\TextMeBot\TextMeBot\obj\Debug\TextMeBot.pdb
+C:\Users\Dr. S Chakraborty\Desktop\Low Battey Water level Notification\C#\TextMeBot\TextMeBot\bin\Debug\TextMeBot.exe.config
+C:\Users\Dr. S Chakraborty\Desktop\Low Battey Water level Notification\C#\TextMeBot\TextMeBot\bin\Debug\TextMeBot.exe
+C:\Users\Dr. S Chakraborty\Desktop\Low Battey Water level Notification\C#\TextMeBot\TextMeBot\bin\Debug\TextMeBot.pdb
+C:\Users\Dr. S Chakraborty\Desktop\Low Battey Water level Notification\C#\TextMeBot\TextMeBot\obj\Debug\TextMeBot.csproj.AssemblyReference.cache
+C:\Users\Dr. S Chakraborty\Desktop\Low Battey Water level Notification\C#\TextMeBot\TextMeBot\obj\Debug\TextMeBot.Form1.resources
+C:\Users\Dr. S Chakraborty\Desktop\Low Battey Water level Notification\C#\TextMeBot\TextMeBot\obj\Debug\TextMeBot.Properties.Resources.resources
+C:\Users\Dr. S Chakraborty\Desktop\Low Battey Water level Notification\C#\TextMeBot\TextMeBot\obj\Debug\TextMeBot.csproj.GenerateResource.cache
+C:\Users\Dr. S Chakraborty\Desktop\Low Battey Water level Notification\C#\TextMeBot\TextMeBot\obj\Debug\TextMeBot.csproj.CoreCompileInputs.cache
+C:\Users\Dr. S Chakraborty\Desktop\Low Battey Water level Notification\C#\TextMeBot\TextMeBot\obj\Debug\TextMeBot.exe
+C:\Users\Dr. S Chakraborty\Desktop\Low Battey Water level Notification\C#\TextMeBot\TextMeBot\obj\Debug\TextMeBot.pdb
